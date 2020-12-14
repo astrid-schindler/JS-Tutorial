@@ -1,5 +1,7 @@
 "use strict"
 
+// console.log(typeof <<VARIABLENNAME>>) ==> gibt den Typ einer Variablen an
+
 // String
 let a = "Hey dude!"
 console.log(typeof a)
@@ -14,5 +16,3 @@ console.log(b)
 let c = true
 console.log(typeof c)
 console.log(c)
-
-// console.log(typeof <<VARIABLENNAME>>) ==> gibt den Typ einer Variablen an
